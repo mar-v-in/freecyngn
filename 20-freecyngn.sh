@@ -14,6 +14,7 @@ deleteApk() {
 del_files() {
 cat <<EOF
 CMAccount
+CMUpdater
 CMS
 CMSetupWizard
 CyanogenSetupWizard
