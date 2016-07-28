@@ -15,6 +15,7 @@ del_files() {
 cat <<EOF
 Browser
 CMAccount
+CMUpdater
 CMS
 CMSetupWizard
 CyanogenSetupWizard
