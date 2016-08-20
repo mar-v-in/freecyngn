@@ -17,7 +17,6 @@ Browser
 CMAccount
 CMS
 CMSetupWizard
-CyanogenSetupWizard
 LockClock
 TimeService
 Voice+
