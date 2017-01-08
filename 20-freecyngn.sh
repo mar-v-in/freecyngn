@@ -6,7 +6,7 @@
 #
 
 deleteApk() {
-    rm -rf /system/app/$1.apk /system/priv-app/$1.apk /system/app/$1 /system/priv-app/$1 && echo "Removed $1"
+    rm -rf /system/app/$1.apk /system/priv-app/$1.apk /system/app/$1 /system/priv-app/$1 /system/bin/$1 /system/xbin/$1 && echo "Removed $1"
 }
 
 del_files() {
@@ -15,6 +15,7 @@ CyanogenSetupWizard
 Gello
 LockClock
 TimeService
+unrar
 EOF
 }
 
