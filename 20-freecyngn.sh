@@ -11,7 +11,7 @@ deleteApk() {
 
 del_files() {
 cat <<EOF
-CyanogenSetupWizard
+LineageSetupWizard
 Gello
 LockClock
 TimeService
